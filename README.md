@@ -1,2 +1,2 @@
 # ECHacks-Speech-Analysis
-Anaylzes speech of stressed individuals and replies back to calm hem down.
+Anaylzes speech of stressed individuals and replies back to calm them down.
